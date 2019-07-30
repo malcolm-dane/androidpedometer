@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:6:5-35
+uses-sdk
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:8:5-44
+	android:targetSdkVersion
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:8:15-41
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:10:22-65
+application
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:12:5-53:19
+	android:label
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:13:9-38
+activity#malcolm.pedometer.Pedometer
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:18:13-48
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:16:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:21:27-74
+activity#malcolm.pedometer.Settings
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:24:9-45:20
+	android:label
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:25:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:27:13-30:29
+category#android.intent.category.DEFAULT
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:29:27-73
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:33:13-44:29
+action#android.intent.action.VIEW
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:37:27-75
+data
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:40:17-43:45
+	android:host
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:41:21-53
+	android:scheme
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:43:21-42
+	android:pathPrefix
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:42:21-51
+intent
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:47:9-50:63
+	android:action
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:48:13-56
+	android:targetClass
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:50:13-60
+	android:targetPackage
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:49:13-54
+service#malcolm.pedometer.PServ
+ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:51:9-42
+	android:name
+		ADDED from /root/Desktop/android-pedometer-master/app/src/main/AndroidManifest.xml:51:18-39

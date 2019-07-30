@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/root/Desktop/android-pedometer-master/app/build/intermediates/res/merged/debug/drawable/ic_notification.png",
+        "source": "/root/Desktop/android-pedometer-master/app/src/main/res/drawable/ic_notification.png"
+    },
+    {
+        "merged": "/root/Desktop/android-pedometer-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/root/Desktop/android-pedometer-master/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/root/Desktop/android-pedometer-master/app/build/intermediates/res/merged/debug/drawable/line40.png",
+        "source": "/root/Desktop/android-pedometer-master/app/src/main/res/drawable/line40.png"
+    }
+]
